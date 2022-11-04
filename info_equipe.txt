@@ -7,19 +7,19 @@ Scrum Master: Robson
 
 	Dev 01: Ana Paula
 	Habilidades:
-	Experciencia:
+	Experiencia:
 
 
 	Dev 02: Guilherme
 	Habilidades:
-	Experciencia:
+	Experiencia:
 
 
 	Dev 03: Ana Livia
 	Habilidades:
-	Experciencia:
+	Experiencia:
 
 
 	Dev 04: Felipe
 	Habilidades:
-	Experciencia:
+	Experiencia:
