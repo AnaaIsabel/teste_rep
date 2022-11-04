@@ -11,13 +11,13 @@ Scrum Master: Robson
 
 
 	Dev 02: Guilherme
-	Habilidades:
-	Experiencia:
+	Habilidades: Eu sei cálculo.
+	Experiencia: Nenhuma.
 
 
 	Dev 03: Ana Livia
-	Habilidades:
-	Experiencia:
+	Habilidades: Cozinhar
+	Experiencia: Python
 
 
 	Dev 04: Felipe
